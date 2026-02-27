@@ -1,0 +1,7 @@
+title: ANTERINDONG
+description: Situs dokumentasi sederhana
+theme: jekyll-theme-primer
+# Sesuaikan baseurl jika tidak dipublikasikan di root
+# baseurl: ""
+# url: "https://USERNAME.github.io"
+markdown: CommonMarkGhPages
